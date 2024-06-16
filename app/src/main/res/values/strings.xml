@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">life cycle</string>
+    <string name="subtraction">-</string>
+    <string name="addition">+</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+</resources>
